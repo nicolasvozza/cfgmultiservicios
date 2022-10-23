@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>CFG</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+.fondo {
+	background-color: #F1D254;
+	float: right;
+	height: 1200px;
+	width: 100%;
+	text-align: left;
+}
+.logo {
+}
+.logo {
+	background-color: #F1D254;
+	float: left;
+	height: 250px;
+	width: 33%;
+	text-align: center;
+}
+.bienvenida {
+	background-color: #F1D254;
+	float: left;
+	height: 250px;
+	width: 67%;
+	color: #0CC;
+	text-align: center;
+}
+.boton {
+	background-color: #455A64;
+	float: left;
+	height: 100px;
+	width: 25%;
+	text-align: center;
+}
+.edit {
+	background-color: #F1D254;
+	float: left;
+	height: 1500px;
+	width: 100%;
+	text-align: left;
+}
+.pie de pagina {
+	background-color: #999;
+	float: left;
+	height: 200px;
+	width: 100%;
+}
+.pie {
+	background-color: #999;
+	float: left;
+	height: 200px;
+	width: 100%;
+}
+
+body {
+	background-image: url(../imagenes/marmol.png);
+	text-align: center;
+}
+.pie {
+	background-color: #455A64;
+	float: left;
+	height: 200px;
+	width: 100%;
+	text-align: center;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="fondo">
+  <div class="logo">
+    <p>&nbsp;</p>
+    <p><a href="../index.html"><img src="../imagenes/20221022_130603_0000.png" width="154" height="150" /></a></p>
+  </div>
+  <div class="bienvenida"><img src="../imagenes/20221023_143821_0000.png" width="310" height="250" /></div>
+  <div class="bienvenida2"></div>
+  <div class="boton">
+    <p><a href="../nuestros productos.html"><img src="../imagenes/20221021_140411_0000.png" width="116" height="70" /></a></p>
+  </div>
+  <div class="boton">
+    <p><a href="../lista de precios.html"><img src="../imagenes/20221021_140715_0000.png" width="116" height="70" /></a></p>
+  </div>
+  <div class="boton">
+    <p><a href="../envios a domicilio.html"><img src="../imagenes/20221021_145235_0000.png" width="116" height="70" /></a></p>
+  </div>
+  <div class="boton">
+    <p><a href="../mas info.html"><img src="../imagenes/20221021_142505_0000.png" width="116" height="70" /></a></p>
+  </div>
+  <!-- TemplateBeginEditable name="EditRegion1" -->
+  <div class="edit"></div>
+  <!-- TemplateEndEditable -->
+  <div class="pie"><img src="../imagenes/20221023_141449_0000.png" width="464" height="200" /></div>
+</div>
+</body>
+</html>
